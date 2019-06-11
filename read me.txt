@@ -1,0 +1,22 @@
+instructions
+
+1.login : new user 
+              login directly
+              join the distribution
+              distributor sign in
+             
+2.Main: Click on the merchant name
+              Choose dishes
+              Statement: it will show the menu
+
+3.click on the join the distribution:
+mouthclicked the cover
+choose the distributor
+4.click on the send the order:
+AcceptTheOrder
+5.click on the lose the chance:
+return to Distributor()
+6.click on the grap the order:
+choose
+location
+food delivery
